@@ -4,8 +4,6 @@
 - 🌱 I’m currently engaged in exciting java projects. -I'm exploring different tools and libraries to enhance my skill set. -I'm an early riser, always driven and constantly learning in the tech world.
   
 - 📫 How to reach me : contact For a quick response, DM me on LinkedIn.
-- 😄 Pronouns: 
-- ⚡ Fun fact: ...
 
 <!---
 Prachichi7/Prachichi7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
