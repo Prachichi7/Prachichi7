@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prachichi7
 - -I'm a 20-year-old developer based in India, and I'm a caffinated coder. --Stay updated with my journey on LinkedIn.
-- 👀 I’m interested in creating and developing new apps and trying new things.
+- 👀 I’m interested in creating and developing new apps and websites and of course trying new things.
 - 🌱 I’m currently engaged in exciting java projects.
 - ✨ I'm exploring different tools and libraries to enhance my skill set.
 - ✨ I'm an early riser, always driven and constantly learning in the tech world.
