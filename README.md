@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Prachichi7
-- -I'm a 21-year-old developer based in India, as well as a caffinated coder.
+- ✨ I'm a 21-year-old developer based in India, as well as a caffinated coder.
 - 👀 I’m interested in creating and developing new apps and websites and of course trying new things.
 - 🌱 I’m currently engaged in building exciting projects.
 - ✨ I'm exploring different tools and libraries to enhance my skill set.
