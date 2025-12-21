@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Prachi Gautam
+#  Hi, I'm Prachi Gautam
 
 🎓 MSc Data Science Student  
 📊 Data Science • Machine Learning • Applied Analytics  
@@ -6,7 +6,7 @@
 
 ---
 
-## 🧠 About Me
+##  About Me
 - Strong interest in **Machine Learning, Data Science & Analytics**
 - Experience working with **structured datasets & real-world problems**
 - Focused on **ML-heavy, placement-oriented & research-style projects**
@@ -27,7 +27,7 @@ Git • GitHub • Jupyter • VS Code • Linux
 
 ---
 
-## 🚀 Featured Work
+##  Featured Work
 📌 Explore my pinned repositories for:
 - Machine Learning projects  
 - Data analysis & visualization  
@@ -54,8 +54,8 @@ Each project includes a clear problem statement and implementation.
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/prachi-gautam-5a3987261/
-- 🐦 X: https://x.com/PrachiGautam77
+- LinkedIn: https://www.linkedin.com/in/prachi-gautam-5a3987261/
+- X: https://x.com/PrachiGautam77
 
 ⭐ Feel free to explore my repositories and collaborate!
 
