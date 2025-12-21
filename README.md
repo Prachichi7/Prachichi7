@@ -40,7 +40,7 @@ Each project includes a clear problem statement and implementation.
 ## 📊 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prachichi7&layout=compact&theme=radical)
 
-[![GitHub Streak](streak-stats.demolab.com)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Prachichi7&theme=radical)](https://git.io/streak-stats)
 
 ---
 
