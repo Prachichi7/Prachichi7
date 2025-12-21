@@ -38,11 +38,10 @@ Each project includes a clear problem statement and implementation.
 ---
 ## 📈 GitHub Stats
 
-![Prachi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prachichi7&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prachichi7&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Prachichi7&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=Prachichi7&theme=radical&format=svg)
+
 
 ---
 
