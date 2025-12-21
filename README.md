@@ -17,13 +17,13 @@
 ## 🛠️ Tech Stack
 
 **Languages**  
-Python • R • SQL • C++
+Python • R • SQL • Java
 
 **Data Science & ML**  
 NumPy • Pandas • Matplotlib • Seaborn • Scikit-learn • Statsmodels
 
 **Tools & Platforms**  
-Git • GitHub • Jupyter • VS Code • Linux
+Git • GitHub • Jupyter • VS Code 
 
 ---
 
