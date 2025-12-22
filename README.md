@@ -42,13 +42,12 @@ Each project includes a clear problem statement and implementation.
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Prachichi7&theme=radical&format=svg)
 
-
 ---
 
 ## 🌱 Currently Working On
 - ML-based detection & classification systems  
 - Exploratory Data Analysis (EDA) projects  
-- Improving DSA for interviews  
+- Improving DSA to implement in projects   
 
 ---
 
