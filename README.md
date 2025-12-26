@@ -33,8 +33,6 @@ Git • GitHub • Jupyter • VS Code
 - Data analysis & visualization  
 - Real-world problem solving  
 
-Each project includes a clear problem statement and implementation.
-
 ---
 ## 📈 GitHub Stats
 
