@@ -38,14 +38,7 @@ Git • GitHub • Jupyter • VS Code
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prachichi7&layout=compact&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Prachichi7&theme=radical&format=svg)
-
----
-
-## 🌱 Currently Working On
-- ML-based detection & classification systems  
-- Exploratory Data Analysis (EDA) projects  
-- Improving DSA to implement in projects   
+![GitHub Streak](https://streak-stats.demolab.com?user=Prachichi7&theme=radical&format=svg) 
 
 ---
 
